@@ -20,6 +20,6 @@ val animeshz = about {
 <p align="center">
 <a href="https://stackoverflow.com/users/11377112" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11377112" height="30" width="40" />
 <a href="https://discord.gg/bBN9vZgcCk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="bBN9vZgcCk" height="30" width="40" />
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmcmvcz6pkgprzlrdrvznaq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucmcmvcz6pkgprzlrdrvznaq" height="30" width="40" />
+<a href="https://www.youtube.com/channel/UCMcmVCZ6pKgPRZLrdRvZnAQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCMcmVCZ6pKgPRZLrdRvZnAQ" height="30" width="40" />
 <a href="https://codeforces.com/profile/animeshz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="animeshz" height="30" width="40" />
 </p>
