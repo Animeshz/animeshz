@@ -5,7 +5,11 @@
 ```kotlin
 val animeshz = about {
     name = "Animesh Sahu"
-    codeIn = listOf("Kotlin", "C++", "Python", "Dart", "Java")
+    languages {
+        proficientIn = listOf("Kotlin", "Java")
+        familiarWith = listOf("Rust", "C++", "Python", "Bash")
+        lessInTouch = listOf("PHP", "Dart")
+    }
 
     status {
         + "Preparing for JEE 2021"
