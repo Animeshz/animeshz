@@ -2,21 +2,28 @@
 <h3 align="center">A programming enthusiast by hobby!</h3>
 <br>
 
-```kotlin
-val animeshz = about {
-    name = "Animesh Sahu"
+```rust
+let animeshz = about {
+    name: "Animesh Sahu",
     languages {
-        proficientIn = listOf("Kotlin", "Java")
-        familiarWith = listOf("Rust", "C++", "Python", "Bash")
-        lessInTouch = listOf("PHP", "Dart")
-    }
+        proficient_in: ["Kotlin", "Java"]
+        used_to: ["Rust", "C++", "Python", "Bash"]
+        familiar_with: ["PHP", "Haskell"]
+    },
 
-    status {
-        + "Preparing for JEE 2021"
-        + "Working on KeyboardMouse.kt"
-        + "Learning Designing and GUI development"
-        + "Learning Android development (MAD)"
-    }
+    status: [
+        "Contributing to FOSS",
+        "Learning Android development (MAD)",
+        "Learning Designing and Graphics",
+    ],
+
+    points_of_interests: [
+        "FOSS (Free n Open Source Softwares)",
+        "Unix and Linux",
+        "IoT, Electronics n Automation",
+        "Space Research",
+        "BioTech (Human Psyche specifically)"
+    ],
 }
 ```
 
