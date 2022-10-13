@@ -3,15 +3,21 @@
 <br>
 
 ```rust
-let animeshz = about {
+let animeshz = About {
     name: "Animesh Sahu",
-    languages {
-        proficient_in: ["Kotlin", "Java"]
-        used_to: ["Rust", "C++", "Python", "Bash"]
-        familiar_with: ["PHP", "Haskell"]
+    language: Stats {
+        proficient_in: ["Rust", "Kotlin", "Bash", "JS"],
+        used_to: ["C/C++", "Python", "Java"],
+        familiar_with: ["PHP", "Haskell"],
+    },
+    framework: Stats {
+        proficient_in: ["VueJS", "axum", "kotlinx.coroutines", "ReactJS"],
+        used_to: ["redis-stack", "numpy|pandas|matplot|scipy", "ComposeKt", "RizinCutter|Ghidra"],
+        familiar_with: ["ktor", "Android-NDK"],
     },
 
     status: [
+        "Doing BTech from IIIT Lucknow",
         "Contributing to FOSS",
         "Learning Android development (MAD)",
         "Learning Designing and Graphics",
@@ -22,10 +28,13 @@ let animeshz = about {
         "Unix and Linux",
         "IoT, Electronics n Automation",
         "Space Research",
-        "BioTech (Human Psyche specifically)"
     ],
 }
 ```
+
+<br>
+
+<h4 align="center">Also take a time to look at my <a href="https://animeshz.github.io/site">site</a></h3>
 
 <br>
 <p align="center">
