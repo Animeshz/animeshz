@@ -6,7 +6,7 @@
 let animeshz = About {
     name: "Animesh Sahu",
     language: Stats {
-        proficient_in: ["Rust", "Kotlin", "Bash", "JS"],
+        proficient_in: ["Rust", "Ruby", "Kotlin", "Bash", "JS"],
         used_to: ["C/C++", "Python", "Java"],
         familiar_with: ["PHP", "Haskell"],
     },
