@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Animesh</h1>
-<h3 align="center">A programming enthusiast by hobby!</h3>
-<br>
 
 <h4 align="center">Thanks for passing by! Take a time to look at my <a href="https://animeshz.github.io/site">site</a>, you may find it interesting :^)</h3>
 
