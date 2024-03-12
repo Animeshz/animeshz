@@ -1,11 +1,32 @@
-<h1 align="center">Hi 👋, I'm Animesh</h1>
-
-<h4 align="center">Thanks for passing by! Take a time to look at my <a href="https://animeshz.github.io/site">site</a>, you may find it interesting :^)</h3>
+<!-- Inspiration: https://github.com/Waishnav -->
+<p align="center"><samp><b>
+  What's up, fellow developers?
+  <br>
+  I'm Animeshz. When not coding, catch me reading books or devising diy projects.
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=4000&pause=1000&color=D16AFF&size=16&width=520&center=true&lines=I+code+with+purpose%2C+shaping+pixels+and+possibilities%2C+;and+unravel+the+mysteries+of+technology." />
+  <br>
+</b></samp></p>
 
 <br>
+
 <p align="center">
-<a href="https://stackoverflow.com/users/11377112" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11377112" height="30" width="40" />
-<a href="https://discord.gg/bBN9vZgcCk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="bBN9vZgcCk" height="30" width="40" />
-<a href="https://www.youtube.com/channel/UCMcmVCZ6pKgPRZLrdRvZnAQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCMcmVCZ6pKgPRZLrdRvZnAQ" height="30" width="40" />
-<a href="https://codeforces.com/profile/animeshz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="animeshz" height="30" width="40" />
+<a href="https://animeshz.github.io" target="blank">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/animeshz" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://stackoverflow.com/users/11377112" target="blank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+
+<a href="https://discord.com/users/329643205182095360" target="blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://codeforces.com/profile/animeshz916" target="blank">
+  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+</a>
 </p>
